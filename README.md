@@ -1,5 +1,10 @@
 # AstraWell — Astronaut Well-being Early-Warning Prototype
 
+## Live demo
+[Launch AstraWell on Streamlit Community Cloud](https://astrawell-ai-astronaut-mental-health-uzdiak9ogz2rdnjslpnskg.streamlit.app/)
+
+[Source code](https://github.com/nhk00007-cmyk/AstraWell-AI-Astronaut-Mental-Health)
+
 A NASA Space Apps-inspired **student concept**, not a NASA-endorsed project or medical device. It uses only generated synthetic records and optional user-entered demo check-ins. It does not diagnose mental illness, predict clinical outcomes, or determine fitness for duty.
 
 ## Run
