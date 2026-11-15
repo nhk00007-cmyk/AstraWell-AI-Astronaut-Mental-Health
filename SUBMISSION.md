@@ -38,10 +38,12 @@ AI is part of the proposed research direction, not a completed clinical predicti
 No NASA medical datasets or astronaut health records were accessed. The prototype uses generated synthetic records. NASA Human Research Program and Behavioral Health & Performance materials are background research foundations; do not describe them as training data.
 
 ## Demo link
-[ADD PUBLIC VIDEO OR LIVE DEMO URL AFTER UPLOADING]
+https://astrawell-ai-astronaut-mental-health-uzdiak9ogz2rdnjslpnskg.streamlit.app/
+
+A separate short demo video may be added if required by the challenge.
 
 ## Code repository
-[ADD PUBLIC GITHUB REPOSITORY URL AFTER UPLOADING]
+https://github.com/nhk00007-cmyk/AstraWell-AI-Astronaut-Mental-Health
 
 ## Team
 [ADD TEAM NAME, MEMBER NAMES AND ROLES]
